@@ -9,8 +9,8 @@ from DonLee_Robot_V2 import Config, Import
 
 @DonLee_Robot_V2.on_message(filters.new_chat_members)
 async def auto_welcome(bot: DonLee_Robot_V2, msg: Import.Msg):
-#   from PR0FESS0R-99 import Auto-Welcome-Bot
-#   from PR0FESS0R-99 import ID-Bot
+#   from {A}{p}{p}{u}®{offline}® import Auto-Welcome-Bot
+#   from {A}{p}{p}{u}®{offline}® import ID-Bot
 #   first = msg.from_user.first_name
 #   last = msg.from_user.last_name
 #   mention = msg.from_user.mention
